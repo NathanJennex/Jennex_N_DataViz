@@ -1,4 +1,4 @@
-Olympic Medals - Data Visualization Project
+# Olympic Medals - Data Visualization Project
 
 ## synopsis would go <header>
 
