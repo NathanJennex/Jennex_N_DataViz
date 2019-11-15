@@ -8,4 +8,4 @@ some text about your project, what you did and why etc.
 
 ## Tools Used
 
-##License
+## License
